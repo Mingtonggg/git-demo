@@ -13,4 +13,4 @@ hello mingtong!  hello git!
 hello mingtong!  hello git!
 hello mingtong!  hello git!
 hello mingtong!  hello git!
-hello mingtong!  hello git!
+hello mingtong!  hello git! hot-fix test
